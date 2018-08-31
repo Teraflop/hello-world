@@ -1,5 +1,6 @@
-Hi people!
+Hello,
 
-I'm a coder interested in web development who also likes python. I'm a novice and hope to expand my coding knowledge.
+I'm relatively new an inexperienced. I know a bit of c and python and hope
+to expand my knowledge of them both, as well as to explore neural networks.
 
 -Teraflop
